@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.AssemblyInfo.cs
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\bin\Debug\net6.0\BinarySearchInArray.exe
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\bin\Debug\net6.0\BinarySearchInArray.deps.json
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\bin\Debug\net6.0\BinarySearchInArray.runtimeconfig.json
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\bin\Debug\net6.0\BinarySearchInArray.dll
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\bin\Debug\net6.0\ref\BinarySearchInArray.dll
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\bin\Debug\net6.0\BinarySearchInArray.pdb
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.dll
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\ref\BinarySearchInArray.dll
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.pdb
+D:\kia prjc\tamrin\BinarySearchInArray\BinarySearchInArray\obj\Debug\net6.0\BinarySearchInArray.genruntimeconfig.cache
